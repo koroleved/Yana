@@ -6,3 +6,40 @@ $font-size: 16px;
 ///colors///
 $primary-color: #222;
 $secondary-color: #f00;
+
+:root {
+    --primary-color:#2ad6cb;
+    --secondary-color: #ee82cc;
+    --access-color: #B1FF5C;
+    --secondary-accent-color: #152108;
+    --warning-color: #FFB444;
+    --info-color: #b8a6ff;
+    --danger-color: #FF3D3D;
+
+    --primary-color-light:#7cece6;
+    --secondary-color-light: #eeb3db;
+    --access-color-light: #8ec752;
+    --warning-color-light: #f49f59;
+    --info-color-light: #b5aed2;
+
+    --primary-color-accent:#0d6560;
+    --secondary-color-accent: #950b69;
+    --access-color-accent: #52841e;
+    --warning-color-accent: #884004;
+    --info-color-accent: #4b3894;
+
+    --btn-padding: 18px 36px;
+    --btn-fs: 18px;
+    --btn-fw: 500;
+    --btn-default-bg: #f1a41e;
+
+    --container-padding: 12px;
+
+    --bg-color: #080807;
+    --text-color: #F7FFEE;
+    --form-title: #4F4F4F;
+    --form-accent-title: #8E938C;
+    --badge-dorder: #242424;
+
+   
+}
